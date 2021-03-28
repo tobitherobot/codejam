@@ -5,12 +5,37 @@
 <details>
 <summary>Qualification Round</summary>
 
-| Problem | Solved | Description |
-| --- | --- | --- |
-| Reversort | :heavy_check_mark: | abc |
-| Moons and Umbrellas | :heavy_check_mark::heavy_check_mark: | a |
-| Reversort Engineering | :heavy_check_mark::heavy_check_mark: | abc |
-| Median Sort | :x::x: | abc |
-| Cheating Detection | :x::x: | abc |
+| Problem | Solved |
+| --- | --- |
+| Reversort | :heavy_check_mark: |
+| Moons and Umbrellas | :heavy_check_mark::heavy_check_mark::x: |
+| Reversort Engineering | :heavy_check_mark::heavy_check_mark: |
+| Median Sort | :x::x::x: |
+| Cheating Detection | :x::x: |
+
+</details>
+
+### 2020
+
+<details>
+<summary>Qualification Round</summary>
+
+| Problem | Solved |
+| --- | --- |
+| Vestigium | :heavy_check_mark: |
+| Nesting Depth | :heavy_check_mark::heavy_check_mark: |
+| Parenting Partnering Returns | :heavy_check_mark::heavy_check_mark: |
+| ESAb ATAd | :x::x::x: |
+| Indicium | :x::x: |
+
+</details>
+<details>
+<summary>Round 1A</summary>
+
+| Problem | Solved |
+| --- | --- |
+| Pattern Matching | :x::x::x: |
+| Pascal Walk | :x::x::x: |
+| Square Dance | :x::x: |
 
 </details>
