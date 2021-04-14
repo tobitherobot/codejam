@@ -8,10 +8,21 @@
 | Problem | Solved |
 | --- | --- |
 | Reversort | :heavy_check_mark: |
-| Moons and Umbrellas | :heavy_check_mark::heavy_check_mark::x: |
+| Moons and Umbrellas | :heavy_check_mark::heavy_check_mark::heavy_check_mark: |
 | Reversort Engineering | :heavy_check_mark::heavy_check_mark: |
 | Median Sort | :x::x::x: |
 | Cheating Detection | :x::x: |
+
+</details>
+
+<details>
+<summary>Round 1A</summary>
+
+| Problem | Solved |
+| --- | --- |
+| Append Sort | :heavy_check_mark::heavy_check_mark: |
+| Prime Time | :x::x::x: |
+| Hacked Exam | :x::x::x: |
 
 </details>
 
