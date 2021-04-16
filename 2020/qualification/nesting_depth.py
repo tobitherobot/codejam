@@ -1,4 +1,4 @@
-import sys
+# https://codingcompetitions.withgoogle.com/codejam/round/000000000019fd27/0000000000209a9f
 
 def solve():
     s = input()
@@ -7,15 +7,18 @@ def solve():
 
     for c in s:
         n = int(c)
-        while curr != n:
-            if curr < n:
-                sn += '('
-                curr += 1
-            else:
-                sn += ')'
-                curr -= 1
+        if curr < n:
+            # if the current brackets are less than the current digit, add opening brackets and add the difference
+            sn += '('*(n-curr)
+            curr += (n-curr)
+        else:
+            # if the current brackets are more than the current digit, add closing brackets and remove the difference
+            sn += ')'*(curr-n)
+            curr -= (curr-n)
+        # add the digit itself
         sn += str(n)
 
+    # as the last step, add closing brackets if necessary
     sn += ')'*curr
     return sn
 
